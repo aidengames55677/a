@@ -1,0 +1,16 @@
+LANGUAGE = {
+	fulloutfit = "Outfits",
+	tie = "Ties",
+	hats = "Hats",
+	glasses = "Glasses",
+	vest = "Chest Accessories",
+	neck = "Neck",
+	shirt = "Shirts",
+	wrist = "Wrist/Hands",
+	leftring = "Rings (Left)",
+	rightring = "Rings (Right)",
+	pants = "Pants",
+	shoes = "Shoes",
+	overcoat = "Overcoats",
+	bags = "Back Accessories",
+}

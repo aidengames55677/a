@@ -1,0 +1,11 @@
+ITEM.name = "Unprocessed Cocaine"
+ITEM.desc = "An Bag of Unprocessed Cocaine."
+ITEM.model = "models/srcocainelab/cocainebrick.mdl"
+ITEM.uniqueID = "unprocessedcocaine"
+ITEM.price = 1500
+ITEM.category = "Drugs"
+ITEM.permit = "permit_bm"
+ITEM.stackable = true
+ITEM.maxStack = 5
+ITEM.width = 2
+ITEM.height = 2

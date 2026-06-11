@@ -5,23 +5,8 @@ SCHEMA.desc = "Manhattan, New York, 2002."
 -- Initialize currency
 nut.currency.set("$", "Dollar", "Dollars")
 
--- ============ CORE SCHEMA INCLUDES ============
--- Load core framework and character system
+-- Include all framework files
 nut.util.include("meta/sh_character.lua")
-nut.util.include("sh_config.lua")
-nut.util.include("sh_dev.lua")
-nut.util.include("sv_database.lua")
-
--- ============ SCHEMA DIRECTORIES ============
--- Load all subdirectory systems in order
-nut.util.includeDir("core")
-nut.util.includeDir("derma")
-nut.util.includeDir("factions")
-nut.util.includeDir("classes")
-nut.util.includeDir("items")
-
--- ============ SCHEMA FILES ============
--- Load individual schema system files
 nut.util.include("cl_schema.lua")
 nut.util.include("sv_schema.lua")
 nut.util.include("sh_commands.lua")

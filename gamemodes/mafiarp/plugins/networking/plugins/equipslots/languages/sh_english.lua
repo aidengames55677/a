@@ -1,0 +1,3 @@
+LANGUAGE = {
+	equipSlot = "Clothing Menu",
+}

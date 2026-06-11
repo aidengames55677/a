@@ -1,0 +1,5 @@
+ITEM.name = "Political Permit"
+ITEM.uniqueID = "permit_pol"
+ITEM.model = "models/props_c17/paper01.mdl"
+ITEM.category = "Permits"
+ITEM.desc = "A permit that allows one to order Political Equipment."
