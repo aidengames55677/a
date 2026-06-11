@@ -1,0 +1,10 @@
+ITEM.name = "Manhattan"
+ITEM.desc = "Manhattan drink"
+ITEM.price = 3
+ITEM.model = "models/manhattan/manhattan.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "manhattan"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

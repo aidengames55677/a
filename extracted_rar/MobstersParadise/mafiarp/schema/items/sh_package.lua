@@ -1,0 +1,9 @@
+ITEM.name = "Package"
+ITEM.desc = "A strange package tightly secured. Marked with a tag saying 'Deliver to Vincenzo at The Gas Station'."
+ITEM.model = "models/props_junk/cardboard_box002a.mdl"
+ITEM.price = 10
+ITEM.width = 2
+ITEM.height = 2
+ITEM.exRender = true
+ITEM.noBusiness = true
+ITEM.uniqueID = "packager"

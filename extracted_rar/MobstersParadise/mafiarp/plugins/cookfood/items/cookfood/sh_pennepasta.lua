@@ -1,0 +1,11 @@
+ITEM.name = "Penne Pasta"
+ITEM.category = "Food"
+ITEM.desc = "A delicious bowl of Penne Pasta."
+ITEM.model = "models/pennepasta01/pennepasta01.mdl"
+ITEM.uniqueID = "penne"
+ITEM.price = 2
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

@@ -1,0 +1,14 @@
+-- "gamemodes\\mafiarp\\plugins\\bonemerge\\items\\bonemerge\\sh_hats_76561198174403519_2.lua"
+
+-- Owner: 76561198174403519
+ITEM.name  = "Red Kippah"
+ITEM.Bonemerge = {
+    {
+        Model = "models/diverge/israelhat/red/israelhatred.mdl",
+    },
+}
+ITEM.price = 30
+ITEM.slot = "hats"
+ITEM.gender = "male"
+ITEM.PlayersBuy = { ["STEAM_0:1:107068895"] = true, }
+ITEM.VIP = true

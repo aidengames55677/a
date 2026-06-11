@@ -1,0 +1,11 @@
+ITEM.name = "Popcorn"
+ITEM.category = "Food"
+ITEM.desc = "A bag of buttered popcorn."
+ITEM.model = "models/polievka/popcornbag.mdl"
+ITEM.uniqueID = "popcorn"
+ITEM.price = 10
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

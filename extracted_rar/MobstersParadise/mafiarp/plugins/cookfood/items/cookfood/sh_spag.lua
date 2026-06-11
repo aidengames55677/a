@@ -1,0 +1,11 @@
+ITEM.name = "Spaghetti"
+ITEM.category = "Food"
+ITEM.desc = "A delicious bowl of Spaghetti."
+ITEM.model = "models/bowlofspaghetti01/bowlofspaghetti01.mdl"
+ITEM.uniqueID = "spag"
+ITEM.price = 3
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

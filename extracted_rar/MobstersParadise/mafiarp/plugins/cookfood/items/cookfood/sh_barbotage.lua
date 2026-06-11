@@ -1,0 +1,10 @@
+ITEM.name = "Barbotage"
+ITEM.desc = "Barbotage drink"
+ITEM.price = 2
+ITEM.model = "models/barbotage/barbotage.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "barbotage"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false

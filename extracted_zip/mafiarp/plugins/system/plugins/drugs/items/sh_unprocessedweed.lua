@@ -1,0 +1,11 @@
+ITEM.name = "Unprocessed Marujuana"
+ITEM.desc = "An Stick of Unprocessed Weed."
+ITEM.model = "models/zerochain/props_weedfarm/zwf_weedblock.mdl"
+ITEM.uniqueID = "unprocessedweed"
+ITEM.category = "Drugs"
+ITEM.price = 500
+ITEM.permit = "permit_bm"
+ITEM.stackable = true
+ITEM.maxStack = 5
+ITEM.width = 2
+ITEM.height = 2

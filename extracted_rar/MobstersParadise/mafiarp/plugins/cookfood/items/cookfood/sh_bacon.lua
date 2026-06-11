@@ -1,0 +1,11 @@
+ITEM.name = "Bacon"
+ITEM.category = "Food"
+ITEM.desc = "Delicious slice of fresh Bacon!"
+ITEM.model = "models/bacon01/bacon01.mdl"
+ITEM.uniqueID = "bacon"
+ITEM.price = 2
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.noBusiness = false
+ITEM.empty = false
+ITEM.permit = "food"

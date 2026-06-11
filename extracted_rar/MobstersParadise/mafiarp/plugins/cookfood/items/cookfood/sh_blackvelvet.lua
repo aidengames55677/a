@@ -1,0 +1,10 @@
+ITEM.name = "Black velvet"
+ITEM.desc = "Black velvet drink"
+ITEM.price = 2
+ITEM.model = "models/black velvet/black velvet.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "black_velvet"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false

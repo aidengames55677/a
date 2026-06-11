@@ -1,0 +1,12 @@
+ITEM.name = "Stolz Vanilla Beer"
+ITEM.category = "Food"
+ITEM.desc = "A pleasant aroma of milk chocolate, malt, and a touch of vanilla."
+ITEM.model = "models/foodnhouseholditems/beer_stoltz.mdl"
+ITEM.uniqueID = "beer2"
+ITEM.price = 4
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false
+ITEM.abv = 10

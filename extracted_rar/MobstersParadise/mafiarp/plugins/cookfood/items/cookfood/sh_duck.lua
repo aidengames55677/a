@@ -1,0 +1,11 @@
+ITEM.name = "Peking Duck"
+ITEM.category = "Food"
+ITEM.desc = "Roasted and served with plum sauce and green onions."
+ITEM.model = "models/foodnhouseholditems/turkey.mdl"
+ITEM.uniqueID = "duck"
+ITEM.price = 10
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

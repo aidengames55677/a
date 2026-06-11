@@ -1,0 +1,13 @@
+ITEM.name = "Bloody Mary"
+ITEM.desc = "Bloody Mary, Bloody Mary, Bloody Mary"
+ITEM.model = "models/bloody mary/bloody mary.mdl"
+ITEM.noBusiness = false
+ITEM.hungerAmount = 1500
+ITEM.cookable = false
+ITEM.foodDesc = "Bloody Mary, Bloody Mary, Bloody Mary"
+ITEM.price = 2
+ITEM.quantity = 1
+ITEM.staminaAmount = 30
+ITEM.permit = "food"
+ITEM.isFood = true
+ITEM.noBusiness = false

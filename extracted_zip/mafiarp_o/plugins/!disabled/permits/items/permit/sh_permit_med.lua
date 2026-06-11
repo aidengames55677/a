@@ -1,0 +1,5 @@
+ITEM.name = "Medicine Permit"
+ITEM.uniqueID = "permit_med"
+ITEM.model = "models/props_c17/paper01.mdl"
+ITEM.category = "Permits"
+ITEM.desc = "A permit that allows one to order various types of medical supplies."

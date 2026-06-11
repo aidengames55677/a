@@ -1,0 +1,11 @@
+ITEM.name = "Hop Knot IPA"
+ITEM.category = "Food"
+ITEM.desc = "A delicious Pale Ale."
+ITEM.model = "models/foodnhouseholditems/beercan03.mdl"
+ITEM.uniqueID = "beer3"
+ITEM.price = 4
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false

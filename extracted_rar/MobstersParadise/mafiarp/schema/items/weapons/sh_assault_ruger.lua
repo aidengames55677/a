@@ -1,0 +1,10 @@
+ITEM.name = "Ruger 10 / 22"
+ITEM.desc = ""
+ITEM.model = "models/weapons/tfa_nmrih/w_fa_ruger1022.mdl"
+ITEM.class = "tfa_nmrih_rug1022"
+ITEM.weaponCategory = "primary"
+ITEM.uniqueID = "ruger"
+ITEM.price = 100
+ITEM.width = 2
+ITEM.height = 1
+ITEM.noBusiness = true

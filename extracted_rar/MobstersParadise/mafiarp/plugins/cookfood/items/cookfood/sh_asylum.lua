@@ -1,0 +1,11 @@
+ITEM.name = "Asylum"
+ITEM.desc = "Asylum drink"
+ITEM.price = 1
+ITEM.model = "models/asylum/asylum.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "asylum"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.noBusiness = false
+ITEM.empty = false
+ITEM.abv = 10

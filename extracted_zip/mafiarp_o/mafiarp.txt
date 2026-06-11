@@ -1,0 +1,7 @@
+"mafiarp"
+{
+	"base"		"nutscript"
+	"title"		"1990MafiaRP"
+	"author"	"JayyKashtaCodes"
+	"menusystem" 	"1"
+}

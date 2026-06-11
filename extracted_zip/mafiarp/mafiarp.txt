@@ -1,0 +1,7 @@
+"mafiarp"
+{
+	"base"		"nutscript"
+	"title"		"mafiarp"
+	"author"	"JayyKashtaCodes"
+	"menusystem" 	"1"
+}

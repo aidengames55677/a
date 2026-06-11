@@ -1,0 +1,10 @@
+ITEM.name = "Mimosa"
+ITEM.desc = "Mimosa drink"
+ITEM.price = 1
+ITEM.model = "models/mimosa/mimosa.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "mimosa"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

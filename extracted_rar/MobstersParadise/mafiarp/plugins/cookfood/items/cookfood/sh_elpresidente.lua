@@ -1,0 +1,10 @@
+ITEM.name = "el Presidente"
+ITEM.desc = "el Presidente drink"
+ITEM.price = 1
+ITEM.model = "models/el presidente/el presidente.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "elpresidente"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

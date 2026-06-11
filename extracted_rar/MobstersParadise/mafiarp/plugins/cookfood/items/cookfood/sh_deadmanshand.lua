@@ -1,0 +1,10 @@
+ITEM.name = "Dead Man's Hand"
+ITEM.desc = "Dead Man's Hand drink"
+ITEM.price = 3
+ITEM.model = "models/dead man's hand/dead man's hand.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "dmh"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,10 @@
+ITEM.name = "Brandy Fizz"
+ITEM.desc = "Brandy Fizz drink"
+ITEM.price = 2
+ITEM.model = "models/brandy fizz/brandy fizz.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "brandyfizz"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

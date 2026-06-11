@@ -1,0 +1,11 @@
+ITEM.name = "Pancakes"
+ITEM.category = "Food"
+ITEM.desc = "A stack of fluffy pancakes."
+ITEM.model = "models/foodnhouseholditems/pancakes.mdl"
+ITEM.uniqueID = "pancakes"
+ITEM.price = 3
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

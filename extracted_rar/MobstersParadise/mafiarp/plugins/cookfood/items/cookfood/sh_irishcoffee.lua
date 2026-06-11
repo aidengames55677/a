@@ -1,0 +1,10 @@
+ITEM.name = "Irish Coffee"
+ITEM.desc = "Irish Coffee Drink"
+ITEM.price = 2
+ITEM.model = "models/irish coffee/irish coffee.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "irishcoffee"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

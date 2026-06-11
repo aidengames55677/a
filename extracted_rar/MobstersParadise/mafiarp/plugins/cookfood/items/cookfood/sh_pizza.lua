@@ -1,0 +1,11 @@
+ITEM.name = "Cheese Pizza"
+ITEM.category = "Food"
+ITEM.desc = "Delicious pie of Cheese Pizza!"
+ITEM.model = "models/cheesepizza01/cheesepizza01.mdl"
+ITEM.uniqueID = "pizza"
+ITEM.price = 4
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

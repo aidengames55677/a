@@ -1,0 +1,10 @@
+ITEM.name = "Margarita"
+ITEM.desc = "Margarita drink"
+ITEM.price = 2
+ITEM.model = "models/margarita/margarita.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "margarita"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

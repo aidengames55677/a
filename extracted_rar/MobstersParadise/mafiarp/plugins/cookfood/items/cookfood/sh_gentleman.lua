@@ -1,0 +1,10 @@
+ITEM.name = "Gentleman"
+ITEM.desc = "Gentleman Drink"
+ITEM.price = 2
+ITEM.model = "models/gentleman/gentleman.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "gentleman"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

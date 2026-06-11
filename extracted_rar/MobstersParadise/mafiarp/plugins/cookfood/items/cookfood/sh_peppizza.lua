@@ -1,0 +1,11 @@
+ITEM.name = "Pepperoni Pizza"
+ITEM.category = "Food"
+ITEM.desc = "Delicious pie of Pepperoni Pizza!"
+ITEM.model = "models/peppizza02/peppizza02.mdl"
+ITEM.uniqueID = "peppizza"
+ITEM.price = 4.5
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

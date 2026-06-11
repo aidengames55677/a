@@ -1,0 +1,11 @@
+ITEM.name = "Unprocessed Heroin"
+ITEM.desc = "Unprocessed Heroin."
+ITEM.model = "models/drugmodels/package.mdl"
+ITEM.uniqueID = "unprocessedheroin"
+ITEM.category = "Drugs"
+ITEM.price = 1000
+ITEM.permit = "permit_bm"
+ITEM.stackable = true
+ITEM.maxStack = 5
+ITEM.width = 2
+ITEM.height = 2

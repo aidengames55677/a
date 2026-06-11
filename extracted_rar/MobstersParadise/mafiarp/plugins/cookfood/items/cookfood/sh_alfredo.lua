@@ -1,0 +1,12 @@
+ITEM.name = "Fettuccine Alfredo"
+ITEM.category = "Food"
+ITEM.desc = "Fettuccine Pasta, with Alfredo Sauce"
+ITEM.model = "models/alfredo01/alfredo01.mdl"
+ITEM.uniqueID = "fettuccine"
+ITEM.abv = 10
+ITEM.price = 3
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.noBusiness = false
+ITEM.empty = false
+ITEM.permit = "food"

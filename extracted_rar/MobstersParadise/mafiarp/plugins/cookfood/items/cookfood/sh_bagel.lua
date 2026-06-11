@@ -1,0 +1,11 @@
+ITEM.name = "Bagel"
+ITEM.category = "Food"
+ITEM.desc = "A delicious New York bagel."
+ITEM.model = "models/foodnhouseholditems/bagel2.mdl"
+ITEM.uniqueID = "bagel"
+ITEM.price = 4
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false
+ITEM.permit = "food"

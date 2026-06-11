@@ -1,0 +1,12 @@
+ITEM.name = "Master Dark 18"
+ITEM.category = "Food"
+ITEM.desc = "A bitter dark 18-degree Master beer."
+ITEM.model = "models/foodnhouseholditems/beer_master.mdl"
+ITEM.uniqueID = "beer1"
+ITEM.price = 4
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.noBusiness = false
+ITEM.abv = 10

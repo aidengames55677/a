@@ -1,0 +1,10 @@
+ITEM.name = "Jarate Toddy"
+ITEM.desc = "Jarate Toddy drink"
+ITEM.price = 2
+ITEM.model = "models/jarate toddy/jarate toddy.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "jarate toddy"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

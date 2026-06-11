@@ -1,0 +1,10 @@
+ITEM.name = "Sano Grog"
+ITEM.desc = "Sano Grog drink"
+ITEM.price = 1
+ITEM.model = "models/sano grog/sano grog.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "sano_grog"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,9 @@
+ITEM.name = "Esquire"
+ITEM.desc = "Esquire Drink"
+ITEM.price = 1
+ITEM.permit = "food"
+ITEM.uniqueID = "esquire"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,11 @@
+ITEM.name = "Canned Beans"
+ITEM.model = "models/props_junk/garbage_metalcan001a.mdl"
+ITEM.category = "Food"
+ITEM.foodDesc = "A Canned Bean."
+ITEM.price = 3
+ITEM.quantity = 5
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

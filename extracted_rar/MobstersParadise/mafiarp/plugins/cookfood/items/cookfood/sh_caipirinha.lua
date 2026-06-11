@@ -1,0 +1,10 @@
+ITEM.name = "Caipirinha"
+ITEM.desc = "Caipirinha drink"
+ITEM.price = 1
+ITEM.model = "models/caipirinha/caipirinha.mdl"
+ITEM.permit = "drinks"
+ITEM.uniqueID = "caipi"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,10 @@
+ITEM.name = "Green Swizzle"
+ITEM.desc = "Green Swizzle Drink"
+ITEM.price = 1
+ITEM.model = "models/green swizzle/green swizzle.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "greenswizzle"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,11 @@
+ITEM.name = "California Roll"
+ITEM.category = "Food"
+ITEM.desc = "A delicious california sushi roll."
+ITEM.model = "models/sushipack/sushi03.mdl"
+ITEM.uniqueID = "californiaroll"
+ITEM.price = 2
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

@@ -1,0 +1,12 @@
+ITEM.name = "Soda Bottle"
+ITEM.desc = "Smaller Soda's for the great."
+ITEM.model = "models/props_junk/PopCan01a.mdl"
+ITEM.hungerAmount = 700
+ITEM.cookable = false
+ITEM.foodDesc = "Smaller Soda's for the great."
+ITEM.price = 60
+ITEM.quantity = 1
+ITEM.staminaAmount = 30
+ITEM.permit = "food"
+ITEM.noBusiness = false
+ITEM.isFood = true

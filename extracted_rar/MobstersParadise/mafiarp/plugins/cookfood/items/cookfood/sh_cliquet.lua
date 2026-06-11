@@ -1,0 +1,10 @@
+ITEM.name = "Cliquet"
+ITEM.desc = "Cliquet drink"
+ITEM.price = 1
+ITEM.model = "models/cliquet/cliquet.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "cliquet"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

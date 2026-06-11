@@ -1,0 +1,11 @@
+ITEM.name = "Sushi"
+ITEM.category = "Food"
+ITEM.desc = "Japanese Hosomaki filled with salmon and cucumber."
+ITEM.model = "models/sushipack/sushi01.mdl"
+ITEM.uniqueID = "sushi"
+ITEM.price = 12
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

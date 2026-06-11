@@ -1,0 +1,11 @@
+ITEM.name = "Stolichnaya Vodka"
+ITEM.category = "Food"
+ITEM.desc = " A well-known Soviet brand of rye-grain vodka."
+ITEM.model = "models/props_junk/GlassBottle01a.mdl"
+ITEM.uniqueID = "vodka"
+ITEM.price = 4
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

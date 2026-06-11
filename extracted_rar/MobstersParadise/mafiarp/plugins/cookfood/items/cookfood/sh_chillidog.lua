@@ -1,0 +1,11 @@
+ITEM.name = "Chillidog"
+ITEM.model = "models/food/hotdog.mdl"
+ITEM.category = "Food"
+ITEM.foodDesc = "A Chillidog."
+ITEM.quantity = 1
+ITEM.price = 2
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

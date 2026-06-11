@@ -1,0 +1,11 @@
+ITEM.name = "Chinese Noodle"
+ITEM.model = "models/props_junk/garbage_takeoutcarton001a.mdl"
+ITEM.category = "Food"
+ITEM.foodDesc = "A Cartoon of Chinese Food."
+ITEM.price = 2
+ITEM.quantity = 1
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

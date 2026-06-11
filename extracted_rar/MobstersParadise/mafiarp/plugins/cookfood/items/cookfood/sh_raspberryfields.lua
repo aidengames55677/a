@@ -1,0 +1,10 @@
+ITEM.name = "Raspberry Fields"
+ITEM.desc = "Raspberry Fields drink"
+ITEM.price = 1
+ITEM.model = "models/raspberry fields/raspberry fields.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "raspberry_fields"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

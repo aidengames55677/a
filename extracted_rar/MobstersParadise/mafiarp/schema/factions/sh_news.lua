@@ -1,0 +1,9 @@
+FACTION.name = "The New York Times"
+FACTION.desc = "fCopDesc"
+FACTION.pay = 30
+FACTION.payTime = 600
+FACTION.color = Color(0,150,0)
+FACTION.isDefault = false
+FACTION.pay = 0
+FACTION.isGloballyRecognized = false
+FACTION_NEWS = FACTION.index

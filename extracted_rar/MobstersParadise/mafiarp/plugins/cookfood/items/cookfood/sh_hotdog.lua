@@ -1,0 +1,11 @@
+ITEM.name = "Hot dog"
+ITEM.category = "Food"
+ITEM.desc = "A delicious, steamed hot dog."
+ITEM.model = "models/foodnhouseholditems/hotdog.mdl"
+ITEM.uniqueID = "hotdog"
+ITEM.price = 7
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

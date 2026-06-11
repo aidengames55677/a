@@ -1,0 +1,16 @@
+-- "gamemodes\\mafiarp\\plugins\\bonemerge\\items\\bonemerge\\sh_hats_norte4.lua"
+
+ITEM.name = "Norte Strawhat"
+ITEM.Bonemerge = {
+    {
+        Model = "models/tnb/techcom/brot/cowboyhatter.mdl",
+        Bodygroups = { {"cowboyhat", 3} },
+    },
+}
+ITEM.price = 30
+ITEM.slot = "hats"
+ITEM.gender = "male"
+ITEM.usesEquipSlot = true
+ITEM.Factions = {}
+ITEM.VIP = true
+ITEM.NoClothingVendor = true

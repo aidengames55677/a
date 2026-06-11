@@ -1,0 +1,10 @@
+ITEM.name = "Mining Pickaxe"
+ITEM.desc = "A rusty pickaxe that's used for mining. Very blunt, will not damage others."
+ITEM.model = "models/weapons/tfa_nmrih/w_me_fubar.mdl"
+ITEM.class = "mgs_pickaxe"
+ITEM.uniqueID = "pickaxeg"
+ITEM.permit = "admin"
+ITEM.price = 5
+ITEM.width = 1
+ITEM.height = 1
+ITEM.flag = "Y"

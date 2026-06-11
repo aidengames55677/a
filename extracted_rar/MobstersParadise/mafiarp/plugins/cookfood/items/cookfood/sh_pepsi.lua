@@ -1,0 +1,11 @@
+ITEM.name = "Pepsi Cola"
+ITEM.desc = "A cold can of Pepsi Cola."
+ITEM.price = 4
+ITEM.model = "models/foodnhouseholditems/sodacan04.mdl"
+ITEM.flag = "y"
+ITEM.flag = "y"
+ITEM.uniqueID = "pepsi"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,11 @@
+ITEM.name = "Cooked Lobster"
+ITEM.category = "Food"
+ITEM.desc = "A delicious lobster boiled to perfection."
+ITEM.model = "models/foodnhouseholditems/lobster2.mdl"
+ITEM.uniqueID = "lobster"
+ITEM.price = 25
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

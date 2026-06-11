@@ -1,0 +1,11 @@
+ITEM.name = "Egg"
+ITEM.category = "Food"
+ITEM.desc = "A delicious egg cooked sunny side up."
+ITEM.model = "models/eggs01/eggs01.mdl"
+ITEM.uniqueID = "egg"
+ITEM.price = 1
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

@@ -1,0 +1,11 @@
+ITEM.name = "Mac N Cheese"
+ITEM.category = "Food"
+ITEM.desc = "A delicious bowl of mac n cheese."
+ITEM.model = "models/macncheese01/macncheese01.mdl"
+ITEM.uniqueID = "macncheese"
+ITEM.price = 1.5
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

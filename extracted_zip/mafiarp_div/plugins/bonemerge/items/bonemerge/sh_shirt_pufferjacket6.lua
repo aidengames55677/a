@@ -1,0 +1,15 @@
+-- "gamemodes\\mafiarp\\plugins\\bonemerge\\items\\bonemerge\\sh_shirt_pufferjacket6.lua"
+
+ITEM.name = "Puffer Jacket (Red & Black Design)"
+ITEM.Bonemerge = {
+    {
+        Model = "models/diverge/smallsedit/puffer_tunic.mdl",
+		Bodygroups = {
+            {"tops", 5}
+        },
+    },
+}
+ITEM.RemoveBody = true
+ITEM.gender = "male"
+ITEM.slot = "shirt"
+ITEM.price = 350

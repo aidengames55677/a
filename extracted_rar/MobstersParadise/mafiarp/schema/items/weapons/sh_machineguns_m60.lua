@@ -1,0 +1,11 @@
+ITEM.name = "M60 Machine Gun"
+ITEM.desc = ""
+ITEM.model = "models/weapons/tfa_w_m60_machine_gun.mdl"
+ITEM.class = "tfa_m60"
+ITEM.weaponCategory = "primary"
+ITEM.uniqueID = "m60machinegun"
+ITEM.permit = "admin"
+ITEM.price = 100
+ITEM.width = 4
+ITEM.height = 1
+ITEM.flag = "Y"

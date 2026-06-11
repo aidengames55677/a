@@ -1,0 +1,10 @@
+ITEM.name = "Cup of Coffee"
+ITEM.desc = "A hot cup of coffee."
+ITEM.price = 5
+ITEM.model = "models/polievka/mug.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "coffee"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

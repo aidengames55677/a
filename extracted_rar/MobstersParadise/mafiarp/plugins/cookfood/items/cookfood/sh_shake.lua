@@ -1,0 +1,11 @@
+ITEM.name = "Chocolate Shake"
+ITEM.category = "Food"
+ITEM.desc = "A delicious Chocolate Shake."
+ITEM.model = "models/chocolateshake01/chocolateshake01.mdl"
+ITEM.uniqueID = "shake"
+ITEM.price = 2
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

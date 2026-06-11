@@ -1,0 +1,10 @@
+ITEM.name = "Sidecar"
+ITEM.desc = "Sidecar drink"
+ITEM.price = 1
+ITEM.model = "models/sidecar/sidecar.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "sidecar"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

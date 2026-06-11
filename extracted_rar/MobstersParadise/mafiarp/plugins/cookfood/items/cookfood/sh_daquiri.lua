@@ -1,0 +1,10 @@
+ITEM.name = "Daquiri"
+ITEM.desc = "Daquiri drink"
+ITEM.price = 2
+ITEM.model = "models/daquiri/daquiri.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "daquiri"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

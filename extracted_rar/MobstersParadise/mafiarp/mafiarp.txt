@@ -1,0 +1,7 @@
+"Early 2000's Roleplay"
+{
+	"base"		"nutscript"
+	"title"		"Mobsters Paradise"
+	"author"	"Mobsters Paradise"
+	"menusystem"	"1"
+}

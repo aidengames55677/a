@@ -1,0 +1,10 @@
+ITEM.name = "Water Bottle"
+ITEM.desc = "Bottle of Water"
+ITEM.price = 1
+ITEM.model = "models/props_junk/GlassBottle01a.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "waterb"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,95 @@
+
+-----------------------------------------------------
+ITEM.name = "Gold Chain"
+ITEM.desc = "A Gold Chain packed in a small box"
+ITEM.model = "models/props_junk/cardboard_box004a.mdl"
+ITEM.width = 1
+ITEM.flag = "y"
+ITEM.price = 150
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.outfitCategory = "chain"
+ITEM.pacData = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["Invert"] = false,
+				["LightBlend"] = 1,
+				["CellShade"] = 0,
+				["OwnerName"] = "self",
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Passes"] = 1,
+				["Name"] = "",
+				["NoTextureFiltering"] = false,
+				["DoubleFace"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["Color"] = Vector(225, 255, 0),
+				["Fullbright"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TintColor"] = Vector(0, 0, 0),
+				["UniqueID"] = "80038501",
+				["BlendMode"] = "",
+				["BlurSpacing"] = 0,
+				["Alpha"] = 1,
+				["Material"] = "metal2a",
+				["UseWeaponColor"] = false,
+				["LodOverride"] = -1,
+				["UsePlayerColor"] = false,
+				["Bone"] = "spine 4",
+				["UseLegacyScale"] = false,
+				["Brightness"] = 1,
+				["BoneMerge"] = false,
+				["ClassName"] = "model",
+				["Position"] = Vector(2.38330078125, 5.2626953125, -0.010986328125),
+				["BlurLength"] = 0,
+				["AlternativeScaling"] = false,
+				["Hide"] = false,
+				["OwnerEntity"] = false,
+				["Scale"] = Vector(0.80000001192093, 1.7999999523163, 0.20000000298023),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["EditorExpand"] = false,
+				["Size"] = -0.025,
+				["ModelFallback"] = "",
+				["Angles"] = Angle(92.800003051758, 87.5, 46.299999237061),
+				["TextureFilter"] = 3,
+				["Model"] = "models/hunter/tubes/tube4x4x05.mdl",
+				["Translucent"] = false,
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "73701224",
+		["AimPartUID"] = "",
+		["Hide"] = false,
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["OwnerName"] = "self",
+		["EditorExpand"] = true,
+		["Duplicate"] = false,
+	},
+},
+[2] = {
+	["children"] = {
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "2473775973",
+		["AimPartUID"] = "",
+		["Hide"] = false,
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["OwnerName"] = "self",
+		["EditorExpand"] = false,
+		["Duplicate"] = false,
+	},
+},
+
+	}

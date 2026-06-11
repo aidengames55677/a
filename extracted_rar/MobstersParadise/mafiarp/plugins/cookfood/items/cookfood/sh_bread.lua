@@ -1,0 +1,11 @@
+ITEM.name = "Bread"
+ITEM.category = "Food"
+ITEM.desc = "A loaf of bread."
+ITEM.model = "models/foodnhouseholditems/bread_loaf.mdl"
+ITEM.uniqueID = "bread"
+ITEM.price = 10
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

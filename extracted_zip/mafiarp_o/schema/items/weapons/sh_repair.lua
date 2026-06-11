@@ -1,0 +1,10 @@
+ITEM.name = "Repair Torch"
+ITEM.desc = "Repair Torch."
+ITEM.category = "Tools"
+ITEM.model = "models/weapons/w_repairlvs.mdl"
+ITEM.class = "weapon_lvsrepair"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = false
+ITEM.permit = "permit_gen"
+ITEM.price = 650

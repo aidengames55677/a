@@ -1,0 +1,11 @@
+ITEM.name = "Pie"
+ITEM.category = "Food"
+ITEM.desc = "A freshly baked pie."
+ITEM.model = "models/foodnhouseholditems/pie.mdl"
+ITEM.uniqueID = "pie"
+ITEM.price = 10
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

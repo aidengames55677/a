@@ -1,0 +1,10 @@
+ITEM.name = "Martini"
+ITEM.desc = "Martini drink"
+ITEM.price = 2
+ITEM.model = "models/martini/martini.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "martini"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

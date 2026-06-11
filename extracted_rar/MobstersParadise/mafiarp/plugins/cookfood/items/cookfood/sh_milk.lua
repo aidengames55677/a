@@ -1,0 +1,11 @@
+ITEM.name = "Milk"
+ITEM.desc = "A carton of milk."
+ITEM.price = 4
+ITEM.model = "models/polievka/milkcarton01.mdl"
+ITEM.flag = "y"
+ITEM.flag = "y"
+ITEM.uniqueID = "milk"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

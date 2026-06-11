@@ -1,0 +1,10 @@
+ITEM.name = "Cape Codder"
+ITEM.desc = "Cape Codder Drink"
+ITEM.price = 2
+ITEM.model = "models/cape codder/cape codder.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "capecodder"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

@@ -1,0 +1,11 @@
+ITEM.name = "Burger & Fries"
+ITEM.category = "Food"
+ITEM.desc = "A plate of burger and fries."
+ITEM.model = "models/burgerplate01/burgerplate01.mdl"
+ITEM.uniqueID = "burger"
+ITEM.price = 15
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

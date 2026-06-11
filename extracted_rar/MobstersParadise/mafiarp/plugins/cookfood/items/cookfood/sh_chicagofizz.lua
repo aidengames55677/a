@@ -1,0 +1,10 @@
+ITEM.name = "Chicago Fizz"
+ITEM.desc = "Chicago Fizz drink"
+ITEM.price = 2
+ITEM.model = "models/chicago fizz/chicago fizz.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "asylum"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

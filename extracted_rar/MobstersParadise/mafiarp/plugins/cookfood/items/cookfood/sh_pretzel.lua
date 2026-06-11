@@ -1,0 +1,11 @@
+ITEM.name = "Pretzel"
+ITEM.category = "Food"
+ITEM.desc = "An iconic New York soft pretzel."
+ITEM.model = "models/foodnhouseholditems/pretzel.mdl"
+ITEM.uniqueID = "pretzel"
+ITEM.price = 4
+ITEM.permit = "food"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

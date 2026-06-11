@@ -1,0 +1,10 @@
+ITEM.name = "Death In The Afternoon"
+ITEM.desc = "Death In The Afternoon Drink"
+ITEM.price = 2
+ITEM.model = "models/death in the afternoon/death in the afternoon.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "dita"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

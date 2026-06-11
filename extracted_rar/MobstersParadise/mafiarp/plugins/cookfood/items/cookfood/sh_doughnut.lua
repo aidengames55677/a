@@ -1,0 +1,11 @@
+ITEM.name = "Doughnut"
+ITEM.model = "models/foodnhouseholditems/donut.mdl"
+ITEM.category = "Food"
+ITEM.foodDesc = "A Doughnut."
+ITEM.price = 3
+ITEM.quantity = 1
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false
+ITEM.permit = "food"

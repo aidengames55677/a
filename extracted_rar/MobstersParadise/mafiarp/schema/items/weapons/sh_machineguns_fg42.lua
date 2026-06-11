@@ -1,0 +1,11 @@
+ITEM.name = "Fg-42"
+ITEM.desc = ""
+ITEM.model = "models/weapons/tfa_w_fg42.mdl"
+ITEM.class = "tfa_fg42"
+ITEM.weaponCategory = "primary"
+ITEM.uniqueID = "fg42"
+ITEM.permit = "admin"
+ITEM.price = 100
+ITEM.width = 4
+ITEM.height = 1
+ITEM.flag = "Y"

@@ -1,0 +1,10 @@
+ITEM.name = "Cosmopolitan"
+ITEM.desc = "Cosmopolitan drink"
+ITEM.price = 1
+ITEM.model = "models/cosmopolitan/cosmopolitan.mdl"
+ITEM.permit = "food"
+ITEM.uniqueID = "cosmopolitan"
+ITEM.hungerAmount = 3000
+ITEM.noBusiness = false
+ITEM.isFood = true
+ITEM.empty = false

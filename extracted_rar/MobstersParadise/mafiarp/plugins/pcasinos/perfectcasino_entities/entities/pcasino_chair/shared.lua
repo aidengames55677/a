@@ -1,0 +1,14 @@
+-- "gamemodes\\mafiarp\\plugins\\pcasinos\\perfectcasino_entities\\entities\\pcasino_chair\\shared.lua"
+
+ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ENT.PrintName = "Sign Plaque"
+ENT.Author = "Owain Owjo & The One Free-Man"
+ENT.Category = "pCasino"
+ENT.Spawnable = false
+ENT.AdminSpawnable = false
+
+
+PerfectCasino.Core.RegisterEntity("pcasino_chair", {
+},
+"models/freeman/owain_casino_stool.mdl")
